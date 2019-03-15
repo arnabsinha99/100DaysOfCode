@@ -110,3 +110,55 @@
 - learned the 2nd most important hypothesis test for ANNOVA i.e., Tukey test. Also, got familiar with Covariance concept.
 ## Day - -46 : feb 15th 2019
 - learned the concept of pearson Corelation Coefficient hypothesis test.🎭
+## Day - -47 : feb 16th 2019
+- learned the concepts of chi-square in statistics.
+## Day - -48 : feb 17th 2019
+- code chef and hackerrank.(10 days of probability and stats)
+## Day - -49 : feb 18th 2019
+- read the research paper on qc corpus NLP.
+## Day - -50 : feb 19th 2019
+- written 2 pages of my next research paper.
+## Day - -51 : feb 20th 2019
+- learned some concepts of Non-parametric statistics(Bayesian stats).
+## Day - -52 : feb 21th 2019
+- learned the wilcoxon rank sum test.
+## Day - -53 : feb 22th 2019
+- learned the concept of wilcoxon signed test.
+## Day - -54 : feb 23rd 2019
+- started some project on naive-bayes classifier.(understanding the root of classification: one of the five key elements of AI)
+## Day - -55 : feb 24th 2019
+- Trained a model on tumor Dataset on the basis of size.
+(i have added the books for anyone reading to understand the core of stats in read_books folder👀)
+## Day - -56 : feb 25th 2019
+- started working with linear algebra for deep learning.
+## Day - -57 : feb 26th 2019
+- learned the concept of covariance matrix in vectors.
+## Day - -58 : feb 27th 2019
+- trained the model of naive bayes for multiple column dataset and achieved 85% accuracy.
+## Day - -59 : feb 28th 2019
+- training naive bayes without scikit-learn from scratch.
+ [data-set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+## Day - -60 : march 1st 2019
+- learn more about singular matrix and how to use co-variance matrix in naive bayes algo.
+## Day - -61 : march 2nd 2019
+- selected some organisations for GSOC-19.
+## Day - -62 : march 3rd 2019
+- learn the gaussian elimination for a matrix.
+## day - -63 : march 4th 2019
+- Elimination matrix in vectors.(learn from Gilbert strang a.k.a the father of vectors.)
+## day - -64 : march 5th 2019
+- learn the latex.(to write mathematical expressions in python)
+## day - -65 : march 6th 2019
+- watch the tensorflow dev summit and also worked with vectors(linear algebra).
+## day - -66 : march 7th 2019
+- worked out the multivariate gaussian naive bayes from scratch without any libarary.(working from scratch helps in knowing what is hiden behind libraries🤪) -soon will add the code.
+## day - -67 : march 8th 2019
+- learned the concept of positive definite, positive semidefinite & negative definite.
+## day - -68 : march 9th 2019
+- Trying to get the maximum accuracy in naive bayes using another great concept of Qda ,Lda and Rda. The last concept got singular matrix at the end which resulted in the decreasing the accuracy and precision also some conflicts with pooled co-variance matrix.🤯
+## day - -69 : march 10th 2019
+- learned the concept of vector spaces in linear algebra.
+## day - -70 : march 11th 2019
+- learned the sympy and unit testing(also some continous integration).
+## day - -71 : march 12th 2019
+- Trying to implement the same naive bayes classifier for [Devanagari Handwritten Character Dataset Data Set ](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). This time it's an application for computer vision.💻

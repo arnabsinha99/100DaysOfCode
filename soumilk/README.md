@@ -1,6 +1,6 @@
 # Soumil Khandelwal
 Start of the #100DaysOfCode is really a great start to 2k19.
-* Pre- final year CSE 
+* Pre- final year CSE
 * JECRC foundation
 * Mostly use C++ for coding but sometimes use Python as well.
 
@@ -10,7 +10,7 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Learn OpenCL.
   * Practice SPOJ 250 famous problems.
   * Make a good python project.
-  
+
 ### Day 1
   * Did planning for the upcomming 100 days.
   * Practised problem 'Queen Attack II' on hackerrank (https://www.hackerrank.com/challenges/queens-attack-2/problem)
@@ -18,14 +18,14 @@ Start of the #100DaysOfCode is really a great start to 2k19.
         -> First one was having a huge space complexity.<br>
         -> Successed to overcome the space complexity issue and with this present approach , passed 14 out of 21 test cases.<br>
         -> Still making efforts to solve the problem.
-        
+
 ### Day 2
   * Finially did the question Queen's attack II in both python and c++, although the logic is same.
   * You can checkout both the solutions in my repository (https://github.com/soumilk/HackerRank_Programs/tree/master/implementation)
   * Leetcode Question solved -> 217.Contains Duplicate.
   * Leetcode Question solved -> 219.Contains Duplicate II.
-  
-### Day 3 
+
+### Day 3
   * Arrived Jaipur from hometown.
   * Read about binary heaps from geeks for geeks.
 
@@ -36,24 +36,24 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 5
   * Read about sorting algorithums.( Selection sort, bubble sort, insertion sort ).
   * Solved a question, "The time in words" (https://www.hackerrank.com/challenges/the-time-in-words/problem) and solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Time%20in%20Words.cpp).
-  
+
 ### Day 8
   * Solved Hackerrank problems. <br>
     Game of Thrones-I (https://www.hackerrank.com/challenges/game-of-thrones/submissions/code/95140716) and solution is available at (https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Game%20Of%20Thrones-I.cpp).<br>
     Non-Divisible Subset (https://www.hackerrank.com/challenges/non-divisible-subset/problem) and solution for this problem is at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/Non-Divisible%20subset.cpp).
-    
+
 ### Day 9
    * Solved Leetcode Questions :<br>
      Two Sum : This question can be solved by simple approach but still, it took me some time to solve this one.<br>
-     Reverse Integer : This was a easy problem, only thing to keep in mind is the boundations upon the range of the number.<br> 
+     Reverse Integer : This was a easy problem, only thing to keep in mind is the boundations upon the range of the number.<br>
 
 
 ### Day 10
-   * Learned Deque from geeks for geeks. (https://www.geeksforgeeks.org/deque-set-1-introduction-applications/) 
+   * Learned Deque from geeks for geeks. (https://www.geeksforgeeks.org/deque-set-1-introduction-applications/)
    * Learned about the fast exponentiation and fast modulo multiplication.
-   
-### Day 12 
-   * Attended a meetup with the NYU (New York University) ambassadors, Both were Indian students from Tandon school of engineering pursuing MS 
+
+### Day 12
+   * Attended a meetup with the NYU (New York University) ambassadors, Both were Indian students from Tandon school of engineering pursuing MS
    in computer science.<br>
    * Had a conversation with them about GRE and how to proceed for the studies abroad.
    * I have shared my experience and guidance which I got from them in file named ' NYU meetup.md' , I think they might be helpful.
@@ -61,43 +61,43 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 13
    * Tried to solve Hackerrank question- The Bomberman Game (https://www.hackerrank.com/challenges/bomber-man/problem).
 
-### Day 14 
-   * Solved question- The Bomberman Game in python, initially it seems a tricky question but then afterwards when you understand the patern of the problem, its a simple one. Check out the solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Bomberman%20Game.py) 
+### Day 14
+   * Solved question- The Bomberman Game in python, initially it seems a tricky question but then afterwards when you understand the patern of the problem, its a simple one. Check out the solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Bomberman%20Game.py)
 
 ### Day 15
    * Revision of git.
-   
-### Day 16 
+
+### Day 16
    * Contributed in Pyjaipur.
    * Selected Ideas for SIH 2019.
-   
+
 ### Day 17
-   * Revision of git. 
+   * Revision of git.
    * Learned how to squash commits.
 
 ### Day 19
-   * SIH problem submission. 
-   * Enrolled in a free openCV course 
-  
+   * SIH problem submission.
+   * Enrolled in a free openCV course
+
 ### Day 20
    * Took up a technique to solve the problems : Divide and Conquer.(https://github.com/soumilk/100DaysOfCode/tree/master/soumilk/Divide%20and%20Conquer)
    * learned Binary search and Quick sort.
-   
+
 ### Day 21
    * Read about the quick sort analysis.
    * Taught basic git to my roomate.
-   
+
 ### Day 22
    * Learned the Algorithms which use the technique of Divide and Conquer.
-   * Made code in C++ and python for Quick sort.(https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Divide%20and%20Conquer) 
-   * Contributed in Py-jaipur project. 
-   
+   * Made code in C++ and python for Quick sort.(https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Divide%20and%20Conquer)
+   * Contributed in Py-jaipur project.
+
 ### Day 23
    * Enrolled in the free beginner course of OpenCV, (www.learnopencv.com).
    * Set up my machine for the course.
    * Downloaded libraries in ubuntu and setup VS code for windows.
    * Faced some errors and issues while setting up.
-   
+
 ### Day 24
    * Learned Merge Sort.
    * Prepared code in C++ and python for merge sort.
@@ -112,10 +112,10 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 
 ### Day 27
    * Completely understood the topic 'closest pair of points'. This method is a bit tricky and really cool. The method is really interesting and it took me a while to understand it properly.
-   *Sources I used were : <br>
+   * Sources I used were : <br>
 	=> [youtube link](https://www.youtube.com/watch!v=jAigdwcATNw&t=1080s)<br>
         => [Geeks for geeks](https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/)<br>
-	=>As I faced a little difficulty in understanding in method, I have made a file which explains the method in the simplest way possible. [Here is the explanation](https://github.com/soumilk/Algorithms_and_Their_Techniques/blob/master/Divide%20and%20Conquer/Closest%20Pair%20Of%20Points.md) 
+	=>As I faced a little difficulty in understanding in method, I have made a file which explains the method in the simplest way possible. [Here is the explanation](https://github.com/soumilk/Algorithms_and_Their_Techniques/blob/master/Divide%20and%20Conquer/Closest%20Pair%20Of%20Points.md)
 
 ### Day 28
    * Merged pull request from friend Repo having hacerrank solution in java.
@@ -130,14 +130,14 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 30
    * Started learning Django from Udemy Course.
 
-### Day 31 
+### Day 31
 
 ### Day 32 (1-Feb)
    * Started up the course of 'Python and Django complete web development'
    * completed HTML from there.
 
 ### Day 33 (2-feb)
-   * Completed CSS from the course 
+   * Completed CSS from the course
 
 ### Day 34 (3-feb)
    * Completed Boostrap from the course.
@@ -146,12 +146,12 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Made a demo project using HTML,CSS and Bootstrap.
 
 ### Day 36(5-feb)
-   * 
+   *
 
 ### Day 37(6-feb)
    * Completed JavaScript part-1 from the course.
    * Learned Greedy approach of Prim and Kruskals algorithm.
- 
+
 ### Day 38(7-feb)
    * Learned Dijkstra and Job Scheduling in greedy method. Have just undertood the mehods, will be writting code for them soon.
 
@@ -164,7 +164,7 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 41(10-feb)
    * Attended Pyjaipur meetup.
    * Completed hackerearth intern challenge.
-   * Enrolled in codechef february challenge. 
+   * Enrolled in codechef february challenge.
    * uploaded solutions of this challenge in this repo in the folder named 'HackerEarth Engineering Intern Challenge'
 
 ### Day 42(11-feb)
@@ -195,3 +195,56 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved my Ubuntu18.04 issue of crackling sound.
    * Solved February Cook-off challenge.
    * Was able to solve 3 questions successfully.
+
+### Day 48(19-feb)
+   * Prepared for Mid Terms on 20th.
+   * Solved HackerRank Questions:
+    * [Correctness and the Loop Invariant.py](https://www.hackerrank.com/challenges/correctness-invariant/submissions/code/99523054) and [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Correctness%20and%20the%20Loop%20Invariant.py)
+    * [Running Time of Algorithms.py](https://www.hackerrank.com/challenges/runningtime/problem) and [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Running%20Time%20of%20Algorithms.py)
+    * [Intro to Tutorial Challenges.py](https://www.hackerrank.com/challenges/tutorial-intro/problem) and [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Intro%20to%20Tutorial%20Challenges.py)
+    * [Insertion Sort - Part 2.py](https://www.hackerrank.com/challenges/insertionsort2/submissions/code/99521955) and [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Insertion%20Sort%20-%20Part%202.py)
+
+### Day 49(21-22 feb)
+   * Started Pyjaipur Competitive division.
+   * Uploaded PyJaipur meetup details in website code.
+   * Hackerrank question [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Beautiful%20Pairs.cpp).
+   * [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem) and solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Quicksort%201%20-%20Partition.py).
+   * [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) and solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Counting%20Sort%201.py).
+   * Made design for WebApp for SIH in Adobe XD.
+   * Made UI of landing page in Bootstrap.
+   * Taught Git to my friends.
+
+### Day 50(24-feb)
+   * Helped a senior in Mindtree placement exam in solving coding questions, will soon share the screenshot of questions and answers in this repo.
+   * Revised Python and its object oriented approach.
+   * Solved [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/submissions/code/100128050), solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Grid%20Challenge.py).
+   * Solved [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/submissions/code/100087644), solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Jim%20and%20the%20Orders.py).
+   * Solved [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/submissions/code/100034867), solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Counting%20Sort%202.py).
+   * Dropped Idea to learn Django, as I figured out that I am not a development guy.
+   * Prepared dataset for the SIH project in firebase.
+
+### Day 51
+   * Smart India Hackathon 2019, Runner up.
+   * Designed a website in the process to provide the solution to the problem statement given by ITC.
+   * Front End:
+      * HTML/ CSS
+      * JavaScript/ Boostrap
+   * Back End:
+      * Python3
+   * Database:
+      * firebase
+   * Soon gonna upload the project in github with comments and whole explanation of the project.
+
+### Day 52 (11-03-2019)
+   * Started pyjaipur coding-division again after getting a support from group members.
+   * 0/1 knapsack problem and its implementation using Dynamic programming tabulation method.
+   * HackerEarth challenge.
+
+### Day 53 (13-03-2019)
+   * Prepared a documentation for the project which me and my team developed in SIH, to upload it on github. (30 % work done)
+   * Removed a bug in that project.
+   * Taught all about Late binding using 'virtual keyword' to 4-5 students.
+   * Coded 0/1 knapsack problem in python.[code is here](https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Dynamic%20Programming)
+   * Learned backtracking and N Queens problem.
+   * Solved [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/submissions/code/101844568) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/The%20Love-Letter%20Mystery.py)
+   * Solved [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Gemstones.py)

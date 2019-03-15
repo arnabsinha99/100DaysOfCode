@@ -114,12 +114,57 @@
   * codechef
 * ### Day T-59/44: Feb 14 2019
   * personal work
-* ### Day T-60/45: Feb 15 2019
+* ### Day T-58/45: Feb 15 2019
   * personal work
-* ### Day T-61/46: Feb 16 2019
+* ### Day T-57/46: Feb 16 2019
   * personal work
-* ### Day T-62/47: Feb 17 2019
+* ### Day T-56/47: Feb 17 2019
   * CodeChef
-* ### Day T-63/48: Feb 18 2019
+* ### Day T-55/48: Feb 18 2019
   * python
-
+* ### Day T-54/49: Feb 19 2019
+  * PR
+* ### Day T-53/50: Feb 20 2019
+  * PR
+* ### Day T-52/51: Feb 21 2019
+  * OS
+* ### Day T-51/52: Feb 22 2019
+  * pr
+* ### Day T-50/53: Feb 23 2019
+  * wrote a blog
+* ### Day T-49/54: Feb 24 2019
+  * PR
+* ### Day T-48/55: Feb 25 2019
+  * very less work
+* ### Day T-47/56: Feb 26 2019
+  * codechef
+* ### Day T-46/57: Feb 28 2019
+  * PR
+* ### Day T-45/58: Mar 1 2019
+  * codechef
+* ### Day T-44/59: Mar 2 2019
+  * codechef
+* ### Day T-43/60: Mar 3 2019
+  * codechef
+* ### Day T-42/61: Mar 4 2019
+  * codechef
+* ### Day T-41/62: Mar 5 2019
+  * codechef
+* ### Day T-40/63: Mar 6 2019
+  * codechef
+* ### Day T-39/64: Mar 7 2019
+  * some web
+* ### Day T-38/65: Mar 8 2019
+  * some web
+* ### Day T-37/66: Mar 9 2019
+  * codechef
+* ### Day T-36/67: Mar 10 2019
+  * codechef
+* ### Day T-35/68: Mar 11 2019
+  * PR
+* ### Day T-34/69: Mar 12 2019
+  * git
+* ### Day T-33/70: Mar 13 2019
+  * git
+* ### Day T-32/71: Mar 14 2019
+  * pr
